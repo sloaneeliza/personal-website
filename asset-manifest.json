@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/personal-website/static/css/main.b84d1111.css",
+    "main.js": "/personal-website/static/js/main.9eeb801e.js",
+    "static/js/453.253ccfac.chunk.js": "/personal-website/static/js/453.253ccfac.chunk.js",
+    "static/media/header-img.png": "/personal-website/static/media/header-img.5d82bca1156b6782016b.png",
+    "static/media/Resilience.png": "/personal-website/static/media/Resilience.f53d92f908577ece66fa.png",
+    "static/media/Quicksand-Medium.ttf": "/personal-website/static/media/Quicksand-Medium.9fd398f86ce80d968762.ttf",
+    "static/media/Quicksand-Regular.ttf": "/personal-website/static/media/Quicksand-Regular.67e7ce07307c681fb49d.ttf",
+    "static/media/Quicksand-Bold.ttf": "/personal-website/static/media/Quicksand-Bold.bac7ed87f9bcd95a6c55.ttf",
+    "static/media/footer-bg.png": "/personal-website/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/Eclipse.png": "/personal-website/static/media/Eclipse.f1952af328ea670b9494.png",
+    "static/media/color-sharp2.png": "/personal-website/static/media/color-sharp2.d0ddf2ff7e884dca0528.png",
+    "static/media/BUHealth.png": "/personal-website/static/media/BUHealth.e9117d8620e6f87b9b29.png",
+    "static/media/Github.svg": "/personal-website/static/media/Github.e2036b1d058588a3c04ad0dbb32e6847.svg",
+    "index.html": "/personal-website/index.html",
+    "static/media/linkedin.svg": "/personal-website/static/media/linkedin.721d5414c26365f117e71d46b6641cb2.svg",
+    "main.b84d1111.css.map": "/personal-website/static/css/main.b84d1111.css.map",
+    "main.9eeb801e.js.map": "/personal-website/static/js/main.9eeb801e.js.map",
+    "453.253ccfac.chunk.js.map": "/personal-website/static/js/453.253ccfac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b84d1111.css",
+    "static/js/main.9eeb801e.js"
+  ]
+}
