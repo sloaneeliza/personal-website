@@ -12,6 +12,7 @@ export const Proj = () => {
     {
       title: "Eclipse",
       description: "A mindfulness app dedicated to students. It includes pomodoro timers, ambient noises, and guided timed meditation.",
+      imgUrl: Eclipse,
       link: "https://github.com/sloaneeliza/Eclipse"
     },
     {
