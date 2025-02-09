@@ -4,15 +4,11 @@ export const Skills = () => {
   const skills = [
     "Java",
     "Python",
-    "Three.js",
     "JavaScript",
-    "React",
     "HTML",
     "CSS",
     "Node.js",
-    "Git",
-    "Bootstrap",
-    "SQL"
+    "Git"
   ];
 
   return (
